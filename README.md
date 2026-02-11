@@ -35,9 +35,10 @@ Hi, I’m Priyatosh 👋
 - [Bio Card Showcase](https://github.com/Ron766543/bio-card-showcase) - Profile card gallery with search filter built using HTML, CSS, and JavaScript. **Stars:** 0, **Language:** JavaScript, **Forks:** 0, **Issues:** 0
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ron766543&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ron766543&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ron766543&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ron766543&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ron766543&theme=nightowl&hide_border=false&cache_seconds=1800)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ron766543&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=600)
+
 
 
 
