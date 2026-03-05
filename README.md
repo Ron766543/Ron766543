@@ -41,17 +41,6 @@ Hi, I’m Priyatosh 👋
 
 
 
-
-## Recent Activity
-
-- **Pushed** to [To-Do List](https://github.com/Ron766543/To-Do_List) on 2026-01-14  
-- **Pushed** to [Weather Web-App](https://github.com/Ron766543/weather_web-App) on 2026-01-11  
-- **Pushed** to [Weather Web-App](https://github.com/Ron766543/weather_web-App) on 2026-01-11  
-- **Pushed** to [Weather Web-App](https://github.com/Ron766543/weather_web-App) on 2026-01-11  
-- **Pushed** to [Weather Web-App](https://github.com/Ron766543/weather_web-App) on 2026-01-11
-
-
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyatosh-m-7aa561392) 
