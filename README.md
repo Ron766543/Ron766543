@@ -28,11 +28,26 @@ Hi, I’m Priyatosh 👋
 
 ## Top Projects
 
-- [To-Do List](https://github.com/Ron766543/To-Do_List) - A simple To-Do List app using HTML, CSS, and JavaScript. **Stars:** 0, **Language:** CSS, **Forks:** 0, **Issues:** 0
-- [Weather Web-App](https://github.com/Ron766543/weather_web-App) - A lightweight weather web app that provides current temperature and weather description using the OpenWeather API. **Stars:** 0, **Language:** CSS, **Forks:** 0, **Issues:** 0
-- [Techno Web Sandbox](https://github.com/Ron766543/techno-web-sandbox) - A trial portfolio repo for practicing web design with HTML5, CSS, and Bootstrap. **Stars:** 0, **Language:** HTML, **Forks:** 0, **Issues:** 0
-- [Study Exam Calendar](https://github.com/Ron766543/study-exam-calendar) - Editable calendar app to track study days and exam days with ease. **Stars:** 0, **Language:** CSS, **Forks:** 0, **Issues:** 0
-- [Bio Card Showcase](https://github.com/Ron766543/bio-card-showcase) - Profile card gallery with search filter built using HTML, CSS, and JavaScript. **Stars:** 0, **Language:** JavaScript, **Forks:** 0, **Issues:** 0
+**🏢 Internship Projects — Unified Mentor Pvt. Ltd.**
+
+| Project | Description | Stack |
+|---|---|---|
+| [RentEase](https://github.com/Ron766543/RentEase) | A full-stack furniture & appliance rental platform with customer, vendor, and admin roles | React + Vite, Node/Express, MongoDB |
+| [ventureWise](https://github.com/Ron766543/ventureWise) | A prototype web platform designed to help learners transition into entrepreneurship | React + Vite, Node/Express, MongoDB |
+
+**🎓 College Group Project**
+
+| Project | Description | link |
+|---|---|---|
+| Online Hospital Management System | A group project built for college, enabling patient, doctor, and admin management for a hospital | https://hospital-management-system-ac9f.vercel.app/ |
+
+**💻 Personal Projects**
+
+- [To-Do List](https://github.com/Ron766543/To-Do_List) - A simple To-Do List app using HTML, CSS, and JavaScript.
+- [Weather Web-App](https://github.com/Ron766543/weather_web-App) - A lightweight weather web app that provides current temperature and weather description using the OpenWeather API.
+- [Techno Web Sandbox](https://github.com/Ron766543/techno-web-sandbox) - A trial portfolio repo for practicing web design with HTML5, CSS, and Bootstrap.
+- [Study Exam Calendar](https://github.com/Ron766543/study-exam-calendar) - Editable calendar app to track study days and exam days with ease.
+- [Bio Card Showcase](https://github.com/Ron766543/bio-card-showcase) - Profile card gallery with search filter built using HTML, CSS, and JavaScript.
 
 # 📊 GitHub Stats:
 
