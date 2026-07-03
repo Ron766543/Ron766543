@@ -28,7 +28,7 @@ Hi, I’m Priyatosh 👋
 
 ## Top Projects
 
-**🏢 Internship Projects — Unified Mentor Pvt. Ltd.**
+**🏢 Internship Projects**
 
 | Project | Description | Stack |
 |---|---|---|
