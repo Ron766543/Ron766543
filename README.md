@@ -6,7 +6,7 @@ I'm **Priyatosh Maharana**, a passionate developer enthusiastic about creating e
 
 Hi, I’m Priyatosh 👋  
 
-🌱 Pursuing BCA and diving deep into the world of web development with curiosity and focus.  
+🌱 Pursuing MCA and diving deep into the world of web development with curiosity and focus.  
 💻 Actively building and sharing front‑end projects on GitHub, experimenting with HTML, CSS, and JavaScript.  
 📂 My repositories reflect a journey of creativity — from interactive UIs to responsive layouts and polished documentation.  
 🚀 I’m passionate about turning ideas into experiences that feel clear, engaging, and visually appealing.  
